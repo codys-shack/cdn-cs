@@ -733,5 +733,41 @@
     "link": "projects/you-are-bezos/index.html",
     "imgSrc": "projects/you-are-bezos/img/banner.png",
     "title": "You Are Jeff Bezos"
+  },
+    {
+    "link": "projects/fnaf/index.html",
+    "imgSrc": "projects/fnaf/splash.png",
+    "title": "Fnaf"
+  },
+  {
+    "link": "projects/fnaf2/index.html",
+    "imgSrc": "projects/fnaf2/splash.png",
+    "title": "Fnaf 2"
+  },
+  {
+    "link": "projects/fnaf3/index.html",
+    "imgSrc": "projects/fnaf3/splash.png",
+    "title": "Fnaf 3"
+  },
+  {
+    "link": "projects/fnaf4/index.html",
+    "imgSrc": "projects/fnaf4/splash.png",
+    "title": "Fnaf 4"
+  },
+  {
+    "link": "projects/bitlife/index.html",
+    "imgSrc": "projects/bitlife/logo.png",
+    "title": "Bitlife"
+  },
+  {
+    "link": "projects/btd6/index.html",
+    "imgSrc": "projects/btd6/uwu.png",
+    "title": "btd6"
+  },
+  {
+    "link": "projects/cluster-rush/index.html",
+    "imgSrc": "projects/cluster-rush/splash.png",
+    "title": "Cluster Rush"
   }
+]
 ]
