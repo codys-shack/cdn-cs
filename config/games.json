@@ -755,8 +755,8 @@
     "title": "Fnaf 4"
   },
   {
-    "link": "projects/bitlife/index.html",
-    "imgSrc": "projects/bitlife/logo.png",
+    "link": "projects/minilife/index.html",
+    "imgSrc": "projects/minilife/logo.png",
     "title": "Bitlife"
   },
   {
@@ -769,5 +769,4 @@
     "imgSrc": "projects/cluster-rush/splash.png",
     "title": "Cluster Rush"
   }
-]
 ]
