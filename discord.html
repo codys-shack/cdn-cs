@@ -2,83 +2,7 @@
 <html>
 <head>
     <style>
-      p {
-        text-align: center;
-        max-width: 600px;
-        margin: 20px auto;
-      }
-      button {
-        cursor: pointer;
-        background-color: #22c55e;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        border-radius: 20px;
-        margin-top: 20px;
-      }
-      .game-link {
-        height: 400px;
-        width: 300px;
-        text-decoration: none;
-      }
-      .game-tile {
-        background-color: #383333  ;
-        height: 330px;
-        width: 290px;
-        border-radius: 20px;
-        transition: transform 0.2s ease-in-out;
-        transition-duration: 0.4s;
-      }
-      .game-tile:hover {
-        transform: scale(1.03);
-        cursor: pointer;
-      }
-      .game-icon {
-        border-radius: 30px;
-        width: 210px;
-        height: 210px;
-        top: 5%;
-        position: relative;
-      }
-      .game-title {
-        font-size: 30px;
-        font-weight: bold;
-        color: #000000;
-        text-align: center;
-        margin: auto;
-        margin-top: 35px;
-      }
-      .flex-container {
-        display: flex;
-        flex-direction: row;
-        order: 0;
-        flex-grow: 0;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: center;
-      }
-      .container {
-        padding: 10px;
-      }
-      @keyframes spin {
-        0% {
-          transform: rotate(0deg);
-        }
-        100% {
-          transform: rotate(360deg);
-        }
-      }
-      .gameblur {
-        background-color: rgba(100, 100, 100, 0.4) !important;
-        -webkit-backdrop-filter: blur(5px);
-        backdrop-filter: blur(5px);
-        -webkit-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.6);
-      }
-      .blur {
+     .blur {
         background-color: rgba(100, 100, 100, 0.4) !important;
         -webkit-backdrop-filter: blur(5px);
         backdrop-filter: blur(5px);
@@ -149,10 +73,22 @@
         50% { background-position: 400% 0; }
         100% { background-position: 0 0; }
       }
+      
+      .slant-container {
+        transform: rotate(-7deg)
+        translate(100px,-25px);
+        color: yellow;
+        animation: mymove 5s infinite;
+        font-family: Minecrafter;
+      }
+      
+      @keyframes mymove {
+        50% {font-size: 30px;}
+      }
     </style>
   </head>
-  <body style="background-color: #121212; color: #ffffff; font-family: sans-serif; text-decoration: none; text-align: center; font-family: monospace;">
-    <nav class="navbar sticky-top navbar-expand-lg navbar-dark blur" style="position: sticky; top: 20px; margin: auto; text-align: center !important; max-width: 520px;">
+   <body style="color: #ffffff; font-family: sans-serif; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('codys-shack-background.gif'); background-repeat: no-repeat; background-size: cover; background-color: #000000;" class="background">
+      <nav class="navbar sticky-top navbar-expand-lg navbar-dark blur" style="position: sticky; top: 20px; max-width: 600px;">
         <a class="navbar-brand" href="index.html" style="font-family: monospace;">cody's shack</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -160,14 +96,14 @@
 
           <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-family: monospace;">
             <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
-                  <a class="nav-link" href="index.html">Home</a>
+              <li class="nav-item active">
+                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="projects.html">Games</a>
               </li>
-              <li class="nav-item active">
-                  <a class="nav-link" href="apps.html">Websites<span class="sr-only">(current)</span></a>
+              <li class="nav-item">
+                  <a class="nav-link" href="apps.html">Websites</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="movies.html">Movies</a>
@@ -175,11 +111,18 @@
               <li class="nav-item">
                   <a class="nav-link" href="misc.html">Settings</a>
               </li>
+              <li class="nav item">
+                  <a class="nav-link" href="discord.html">Discord</a>
+              </li>
           </ul>
       </div>
     </nav>
-    <br />
-    <h1 style="font-size: 3em; text-align: center;">Discord</h1>
+    <br /><br />
+    <h1 style="font-size: 3em; text-align: center; font-family: monospace !important; margin-top: 700px">
+      Discord
+    </h1>
+    <span id="subtitle" style="font-size: 1.5em;" class="slant-container">...</span>
+    <div style="text-align: center; max-width: 600px; margin: 20px auto; font-family: monospace;" class="blur">
     <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
         server: '1237438584672354354', // Cody's Shack
