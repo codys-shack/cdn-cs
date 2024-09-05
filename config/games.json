@@ -768,5 +768,10 @@
     "link": "projects/cluster-rush/index.html",
     "imgSrc": "projects/cluster-rush/splash.png",
     "title": "Cluster Rush"
+  },
+  {
+    "link": "projects/ovo/index.html",
+    "imgSrc": "projects/ovo/ovo.png",
+    "title": "OvO"
   }
 ]
