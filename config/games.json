@@ -773,5 +773,10 @@
     "link": "projects/ovo/index.html",
     "imgSrc": "projects/ovo/ovo.png",
     "title": "OvO"
+  },
+  {
+    "link": "projects/ovo-modded/index.html",
+    "imgSrc": "projects/ovo/ovo.png",
+    "title": "Modded OvO"
   }
 ]
