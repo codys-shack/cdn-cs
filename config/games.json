@@ -783,5 +783,10 @@
     "link": "projects/etp/index.html",
     "imgSrc": "projects/ept/splash.png",
     "title": "Escaping The Prison"
+  },
+  {
+    "link": "projects/rag-arch/index.html",
+    "imgSrc": "projects/rag-arch/splash.png",
+    "title": "Ragdoll Archers"
   }
 ]
