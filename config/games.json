@@ -778,5 +778,10 @@
     "link": "projects/ovo-modded/index.html",
     "imgSrc": "projects/ovo/ovo.png",
     "title": "Modded OvO"
+  },
+  {
+    "link": "projects/etp/index.html",
+    "imgSrc": "projects/etp/splash.png",
+    "title": "Escaping The Prison"
   }
 ]
