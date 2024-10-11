@@ -788,5 +788,10 @@
     "link": "projects/rag-arch/index.html",
     "imgSrc": "projects/rag-arch/splash.png",
     "title": "Ragdoll Archers"
+  },
+  {
+    "link": "projects/eaglercraft/index.html",
+    "imgSrc": "projects/eaglercraft/splash.png",
+    "title": "Resent Client (Eaglercraft)"
   }
 ]
