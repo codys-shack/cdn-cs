@@ -793,5 +793,10 @@
     "link": "projects/Eaglercraft/index.html",
     "imgSrc": "projects/Eaglercraft/splash.png",
     "title": "Resent Client (Eaglercraft)"
+  },
+  {
+    "link": "projects/slope2/index.html",
+    "imgSrc": "projects/slope2/splash.png",
+    "title": "Slope 2"
   }
 ]
