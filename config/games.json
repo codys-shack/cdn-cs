@@ -798,5 +798,10 @@
     "link": "projects/slope2/index.html",
     "imgSrc": "projects/slope2/splash.png",
     "title": "Slope 2"
+  },
+  {
+    "link": "projects/drivemad/index.html",
+    "imgSrc": "projects/drivemad/webapp/cover.jpg",
+    "title": "DriveMad"
   }
 ]
