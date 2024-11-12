@@ -803,5 +803,10 @@
     "link": "projects/drivemad/index.html",
     "imgSrc": "projects/drivemad/webapp/cover.jpg",
     "title": "DriveMad"
+  },
+  {
+    "link": "projects/polytrack/index.html",
+    "imgSrc": "projectsd/polytrack/images/cover.jpg",
+    "title": "Polytrack"
   }
 ]
