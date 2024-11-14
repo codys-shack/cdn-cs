@@ -705,6 +705,11 @@
     "title": "Vex 6"
   },
   {
+    "link": "projects/vex7/index.html",
+    "imgSrc": "projects/vex7/assets/icon.jpeg",
+    "title": "Vex 7"
+  },
+  {
     "link": "projects/webretro-local/index.html",
     "imgSrc": "projects/webretro-local/assets/icon204.png",
     "title": "Web Retro Local"
