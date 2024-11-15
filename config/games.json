@@ -538,6 +538,10 @@
     "link": "projects/sand-game/index.html",
     "imgSrc": "projects/sand-game/sand.png",
     "title": "Sand Game"
+  },  {
+    "link": "projects/sans-fight/index.html",
+    "imgSrc": "projects/sans-fight/splash.jpg",
+    "title": "Sans Fight"
   },
   {
     "link": "projects/slope/index.html",
