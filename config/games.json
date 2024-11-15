@@ -195,6 +195,11 @@
     "title": "Defend the Tank"
   },
   {
+    "link": "projects/deepsword/index.html",
+    "imgSrc": "projects/deepsword/splash.jpg",
+    "title": "Deepest Sword"
+  },
+  {
     "link": "projects/doge2048/index.html",
     "imgSrc": "projects/doge2048/meta/apple-touch-icon.png",
     "title": "Doge 2048"
