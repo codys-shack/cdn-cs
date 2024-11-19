@@ -21,7 +21,7 @@ All the configuration is done in the `config` folder.
 - `games.json`: It contains the games' names, icons, and link.
 If you update this, send a pull request! We would love to see what you all add!
 ## Other Links
-https://unblocked-codyshack.pages.dev
-https://unblocked-cody.pages.dev
-https://codyshack.pages.dev
+- https://unblocked-codyshack.pages.dev
+- https://unblocked-cody.pages.dev
+- https://codyshack.pages.dev
 
