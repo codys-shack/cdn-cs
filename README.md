@@ -27,3 +27,6 @@ If you update this, send a pull request! We would love to see what you all add!
 - https://unblocked-cody.pages.dev
 - https://codyshack.pages.dev
 
+## Discord
+Join [Here](https://discord.gg/mgvMCtw5)
+
