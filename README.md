@@ -19,7 +19,8 @@ This has been removed due to Cody not wanting people to try and claim this as th
 
 All the configuration is done in the `config` folder.
 - `games.json`: It contains the games' names, icons, and link.
-You also will need to add a directory under the 'projects' folder to add a game!
+
+You also will need to add a directory under the `projects` folder to add a game!
 If you update this, send a pull request! We would love to see what you all add!
 ## Other Links
 - https://unblocked-codyshack.pages.dev
