@@ -838,5 +838,10 @@
     "link": "projects/run-3/index.html",
     "imgSrc": "projects/run-3/splash.png",
     "title": "Run 3"
+  },
+  {
+    "link": "projects/jetpack/index.html",
+    "imgSrc": "projects/jetpack/splash.jpg",
+    "title": "Jetpack Joyride"
   }
 ]
