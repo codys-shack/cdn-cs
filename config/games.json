@@ -828,5 +828,10 @@
     "link": "projects/polytrack/index.html",
     "imgSrc": "projectsd/polytrack/splash.png",
     "title": "Polytrack"
+  },
+  {
+    "link": "projects/monkeymart/index.html",
+    "imgSrc": "projectsd/monkeymart/splash.jpeg",
+    "title": "Monkey Mart"
   }
 ]
