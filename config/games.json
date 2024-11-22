@@ -826,17 +826,17 @@
   },
   {
     "link": "projects/polytrack/index.html",
-    "imgSrc": "projectsd/polytrack/splash.png",
+    "imgSrc": "projects/polytrack/splash.png",
     "title": "Polytrack"
   },
   {
     "link": "projects/monkeymart/index.html",
-    "imgSrc": "projectsd/monkeymart/splash.jpeg",
+    "imgSrc": "projects/monkeymart/splash.jpeg",
     "title": "Monkey Mart"
   },
   {
     "link": "projects/run-3/index.html",
-    "imgSrc": "projectsd/run-3/splash.png",
+    "imgSrc": "projects/run-3/splash.png",
     "title": "Run 3"
   }
 ]
