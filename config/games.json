@@ -843,5 +843,10 @@
     "link": "projects/jetpack/index.html",
     "imgSrc": "projects/jetpack/splash.jpg",
     "title": "Jetpack Joyride"
+  },
+  {
+  "link": "projects/time-shooter-3/index.html",
+  "imgSrc": "projects/time-shooter-3/build/TimeShooter3_GD.jpg",
+  "title": "Time Shooter 3"
   }
 ]
