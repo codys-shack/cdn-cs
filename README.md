@@ -26,7 +26,7 @@ If you update this, send a pull request! We would love to see what you all add!
 - https://unblocked-codyshack.pages.dev
 - https://unblocked-cody.pages.dev
 - https://codyshack.pages.dev
-- https://stop-blocking-cody3pages.dev 
+- https://stop-blocking-cody3.pages.dev 
 
 (https://stop-blocking-cody2.pages.dev got a security error for some reaosn lmao)
 
