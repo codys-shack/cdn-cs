@@ -28,7 +28,7 @@ If you update this, send a pull request! We would love to see what you all add!
 - https://codyshack.pages.dev
 - https://stop-blocking-cody3pages.dev 
 
-(https://stop-blocking-codt2.pages.dev got a security error for some reaosn lmao)
+(https://stop-blocking-cody2.pages.dev got a security error for some reaosn lmao)
 
 ## Discord
 Join [Here](https://discord.gg/mgvMCtw5)
