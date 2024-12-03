@@ -14,7 +14,19 @@ Welcome to Cody's Shack, a self-deployable, good-looking game site based off of 
 
 ## Deploy it yourself
 
-This has been removed due to Cody not wanting people to try and claim this as there own
+1. Fork this repo
+2. Go to [Cloudflare Pages](https://pages.dev)
+3. Login with your cloudflare account. This should bring you to the pages and workers page. 
+4. Select pages and connect your github account
+5. Select show all repos or make it so the codys shack repo can be shown
+6. Go back to workers and pages selection
+7. Click "Create" then go to pages
+8. Select to codys shack repo
+9. Name the project (you will use this as a url as [projectname].pages.dev)
+10. Leave everything else blank
+11. Click continue or deploy at the bottom of the pages
+12. Enjoy your shiny new deployment!
+
 ## Configuration
 
 All the configuration is done in the `config` folder.
