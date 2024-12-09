@@ -848,5 +848,10 @@
   "link": "projects/time-shooter-3/index.html",
   "imgSrc": "projects/time-shooter-3/logo.png",
   "title": "Time Shooter 3"
-  }
+  },
+  {
+    "link": "projects/drift-boss/index.html",
+    "imgSrc": "projects/drift-boss/drift-boss.png",
+    "title": "Drift Boss"
+    }
 ]
